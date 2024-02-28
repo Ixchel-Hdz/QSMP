@@ -1,0 +1,118 @@
+@font-face {
+    font-family: aurum;
+    src:url(AURUM.ttf);
+}
+
+@font-face {
+    font-family: lion;
+    src: url(Lion.ttf);
+}
+
+header {
+    background-color: rgb(19, 18, 18);
+    width: 100%;
+}
+    
+.one {
+    float: right;
+    padding: 9%;
+    padding-top: 80px;
+    color: rgb(151, 55, 55);
+}
+    
+.one-uno {
+    display: flex;
+    text-align: justify;
+}
+
+.carita {
+    list-style-type: none;
+    margin: 8px;
+    padding: 8px;
+    overflow: hidden;
+}
+
+.cuakiris {
+    padding: 5px;
+    margin: 10px;
+}
+
+.cuerpo {
+    background-color: rgb(121, 121, 121);
+}
+
+.titulo {
+    font-family: "aurum";
+    font-size: 40px;
+    display: block;
+    padding: 15px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.tutle {
+    font-family: "aurum";
+    font-size: 40px;
+    color:black;
+    padding: 15px;
+    text-align: center;
+}
+
+.tdos {
+    font-family: "lion";
+    font-size: 25px;
+    color: black;
+}
+
+.carita {
+    width: 12%;
+}
+
+.redes {
+    font-family: "lion";
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.logo {
+    width: 52%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.car {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    padding: 5px;
+}
+
+.cuakiris {
+    width: 25%;
+}
+
+p {
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.medio {
+    width: 100%;
+}
+
+.sorte {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+
+.footer {
+    text-align: center;
+    font-size: 17px;
+    color: rgba(0, 0, 0, 0.5);
+    padding-top: 15px;
+}
